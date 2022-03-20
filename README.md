@@ -1,2 +1,2 @@
-# 0up
-kh final project
+# 0-up
+kh_finalProject
